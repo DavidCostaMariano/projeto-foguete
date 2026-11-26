@@ -29,7 +29,7 @@ O Projeto Foguete registra suas partidas sozinho, mostra onde você está perden
 3. Na primeira configuração, diga quem você é e o que quer analisar.
 4. Jogue normalmente com o Foguete aberto.
 
-**Para as análises de lances**, salve o replay no fim de cada partida (a tecla de salvar replay do jogo). Sem replay, você continua tendo o histórico e as métricas de placar e boost.
+**Para as análises de lances**, salve o replay no fim de cada partida (Durante a partida, você pode segurar 'backspace' se joga no teclado ou 'select' se joga no controle, isso vai fazer o rocket league colocar uma marca dizendo que a partida será salva no final. Mas atenção, quando a partida finalizar, você ainda terá que confirmar o salvamento do replay e não precisa por um nome específico). Sem replay, você continua tendo o histórico e as métricas de placar e boost, porém sem o replay você terá menos informações disponíveis e as informações disponíveis serão menos detalhadas. O software analisa frame a frame da partida para sugerir melhorias, por isso, salvar o replay é altamente recomendado.
 
 **Atualizações:** quando sai uma versão nova, o próprio app avisa e atualiza com um clique. Seus dados não são apagados.
 
